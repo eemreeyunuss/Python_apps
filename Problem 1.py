@@ -1,6 +1,3 @@
-print("..............////Beden Kitle Endeksi Hesabı////.............")
-
-
 boy=float(input("Boyunuzu giriniz:"))
 
 kilo=int(input("Kilonuzu giriniz:"))
